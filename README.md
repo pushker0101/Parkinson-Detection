@@ -5,4 +5,5 @@ then based on the trained data the model predicts whether the person is sufferin
 the model with best accuracy came out to be CNN with accuracy of more than 95%.
 The model is deployed on hugging face where you can go and test it out yourself.
 the link to the deployed project is : https://huggingface.co/spaces/dr4g0n7ly/Parkinsons_Meander
+The form for tracing of shapes is provided which can be printed and then traced by the patient.
 You can refer to the images for sample or demo purpose
